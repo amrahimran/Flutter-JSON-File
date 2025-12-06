@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "question": "How long does delivery take?",
+    "answer": "Delivery usually takes 2–4 business days depending on your location."
+  },
+  {
+    "id": 2,
+    "question": "Can I return a product?",
+    "answer": "Yes. Items can be returned within 7 days if they are unused and in original condition."
+  },
+  {
+    "id": 3,
+    "question": "Do you offer gift wrapping?",
+    "answer": "Yes, we offer free gift wrapping for all notebook orders."
+  }
+]
