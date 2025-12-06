@@ -2,16 +2,41 @@
   {
     "id": 1,
     "question": "How long does delivery take?",
-    "answer": "Delivery usually takes 2–4 business days depending on your location."
+    "answer": "Delivery usually takes 2–4 business days depending on your location. During peak seasons or promotional periods, delivery times may be slightly longer. We recommend placing your order in advance if you need it by a specific date. Tracking information will be provided as soon as your order ships, allowing you to monitor its progress in real time. If there are any delays due to unforeseen circumstances, our customer support team will reach out to keep you informed."
   },
   {
     "id": 2,
     "question": "Can I return a product?",
-    "answer": "Yes. Items can be returned within 7 days if they are unused and in original condition."
+    "answer": "Yes, items can be returned within 7 days if they are unused and in their original packaging. Returns must include all tags, accessories, and receipts. Once we receive and inspect the returned item, a full refund will be issued to the original payment method. Please note that personalized or custom orders are not eligible for returns unless there is a manufacturing defect. To initiate a return, contact our support team for step-by-step instructions and a return label."
   },
   {
     "id": 3,
     "question": "Do you offer gift wrapping?",
-    "answer": "Yes, we offer free gift wrapping for all notebook orders."
+    "answer": "Yes, we offer free gift wrapping for all notebook orders. Each item is carefully wrapped with decorative paper and ribbons to create a beautiful presentation. You can also add a personalized note during checkout, and we will include it in the package. Gift wrapping is done with attention to detail to ensure that your present looks professional and elegant, making it perfect for birthdays, anniversaries, or special occasions."
+  },
+  {
+    "id": 4,
+    "question": "What payment methods do you accept?",
+    "answer": "We accept a variety of payment methods including major credit and debit cards, PayPal, and mobile payment solutions. All payments are processed securely using encryption to ensure your financial information is protected. For customers paying with cards, the billing address must match the cardholder information. In case a payment fails, our system will notify you immediately so you can retry or choose a different method. We do not store sensitive payment information on our servers."
+  },
+  {
+    "id": 5,
+    "question": "Can I track my order?",
+    "answer": "Yes, once your order is shipped, you will receive a tracking number via email or SMS. You can use this number to monitor the status of your shipment through the courier's website. Our system provides real-time updates on the location of your package, including estimated delivery dates. If your order appears delayed or the tracking information does not update for an extended period, please contact our support team so we can assist you promptly."
+  },
+  {
+    "id": 6,
+    "question": "Do you ship internationally?",
+    "answer": "Currently, we ship to select international locations. International delivery times vary depending on the destination country and customs processing. Additional shipping fees and taxes may apply for international orders, and these are the responsibility of the customer. We recommend checking the customs regulations in your country before placing an order. Once shipped, international orders can be tracked using the tracking number provided, and our support team is available to help with any issues during transit."
+  },
+  {
+    "id": 7,
+    "question": "How do I care for my notebook?",
+    "answer": "To ensure your notebook lasts a long time, store it in a cool, dry place away from direct sunlight and moisture. Avoid exposing the pages to liquids, as this can cause smudging or warping. Use gentle writing tools like pens or pencils that do not bleed through the pages. If your notebook has a hardcover or leather cover, clean it with a soft, dry cloth. Regular care and proper storage will help maintain the notebook’s appearance and usability for years to come."
+  },
+  {
+    "id": 8,
+    "question": "Do you offer discounts or promotions?",
+    "answer": "Yes, we offer seasonal promotions, bundle discounts, and special offers to our subscribers. You can sign up for our newsletter to receive updates on the latest deals and exclusive discounts. Occasionally, we run flash sales and limited-time offers that provide significant savings on select products. Promo codes can be applied during checkout, and each code has specific terms and conditions. Make sure to check our website regularly for the newest promotions."
   }
 ]
